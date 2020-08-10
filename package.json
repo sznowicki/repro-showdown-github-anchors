@@ -1,0 +1,11 @@
+{
+  "name": "repro-showdown-github-anchors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sznowicki/repro-showdown-github-anchors.git",
+  "author": "Szymon Nowicki",
+  "license": "MIT",
+  "dependencies": {
+    "showdown": "^1.9.1"
+  }
+}
